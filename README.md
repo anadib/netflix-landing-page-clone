@@ -3,7 +3,7 @@
 </h1>
 
 ![](https://github.com/anadib/netflix-landing-page-clone/blob/main/gifs/netflixDesktop.gif?raw=true)
-[Mobile GIF](https://github.com/anadib/netflix-landing-page-clone/blob/main/gifs/netflixMobile.gif?raw=true)
+[Mobile GIF](https://github.com/anadib/netflix-landing-page-clone/blob/main/gifs/netflixMobile.gif)
 
 <p align="center">
   <a href="#page_with_curl-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
