@@ -17,16 +17,12 @@
 
 This repository contains a clone of Netflix Brazil landing page. 
 
-</br>
-
 ## :hammer: Technologies
 
 This project was developed with the following technologies:
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
-
-</br>
 
 ## :thought_balloon: Inspiration
 
